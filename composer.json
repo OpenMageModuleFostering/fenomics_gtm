@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Fenomics_GTM",
+    "name": "openmage-module-fostering\/fenomics_gtm",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Simple Google Tag Manager (GTM) Integration",
     "authors": [
