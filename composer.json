@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Fenomics_GTM",
+    "name": "OpenMageModuleFostering\/Fenomics_GTM",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Simple Google Tag Manager (GTM) Integration",
     "authors": [
-    {
-        "name": "FENOMICS GmbH",
-        "email": "w.embach@fenomics.de"
-    }
-],
+        {
+            "name": "FENOMICS GmbH",
+            "email": "w.embach@fenomics.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
